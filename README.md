@@ -4,7 +4,7 @@ Merupakan toko online sederhana yang dibuat menggunakan Framework Code Igniter, 
 Database dapat ditambahkan menggunakan dengan cara import file database.sql.
 
 Buy me a coffe ?
-https://www.paypal.me/candraaditama
+https://www.paypal.me/irfaramx
 
 ## Screenshots
 ![Screenshot](screenshoot/CI-1.png)
